@@ -1,0 +1,12 @@
+**/.terraform/**
+**tfstate*
+**/*.pem
+
+.DS_Store
+.terraform
+.terraform.tfstate.d
+*.pyc
+
+
+# tf lock file
+.terraform.lock.hcl
